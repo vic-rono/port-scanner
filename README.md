@@ -7,7 +7,9 @@ simple script for running three modes of port scanning
 3. Comprehensive that includes OS scanning
 
 get nmap here - https://nmap.org/
+
 get arguments needed to run scans as per your need - https://nmap.org/book/man-version-detection.
+
 $ pip install python-nmap - https://pypi.org/project/python-nmap/
 
 
