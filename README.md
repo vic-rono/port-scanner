@@ -13,7 +13,7 @@ get arguments needed to run scans as per your need - https://nmap.org/book/man-v
 $ pip install python-nmap - https://pypi.org/project/python-nmap/
 
 
-runnung a comprehensive scan with pycharm IDE;
+running a comprehensive scan with pycharm IDE;
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/61822296/188199162-b2e24f0d-77a3-4473-965c-196bf34f96a7.png)
 
