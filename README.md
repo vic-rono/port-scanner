@@ -17,7 +17,7 @@ runnung a comprehensive scan with pycharm IDE;
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/61822296/188199162-b2e24f0d-77a3-4473-965c-196bf34f96a7.png)
 
-get IP address;
+get IP address #ipconfig;
 
 ![Screenshot (49)](https://user-images.githubusercontent.com/61822296/188199176-d4ed6c1b-8d91-4828-87cf-70d3f6694f56.png)
 
